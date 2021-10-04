@@ -1,6 +1,9 @@
 Hi, my name is Gustavo Oliveira
+
 Actually studing tecnology of analysis and development systems (TADS)
+
 Studing Python and PHP
+
 Forever Learning
 
 
