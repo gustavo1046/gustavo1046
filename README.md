@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gcodeboy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, my name is Gustavo Oliveira
+Actually studing tecnology of analysis and development systems (TADS)
+Studing Python and PHP
+Forever Learning
+
 
 <!---
 gustavo1046/gustavo1046 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
