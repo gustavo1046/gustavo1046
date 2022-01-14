@@ -1,4 +1,4 @@
-Hi, my name is Gustavo Oliveira
+Hi, my name is Gustavo Oliveira, Welcome to my GitHub :)
 
 Actually studing tecnology of analysis and development systems (TADS)
 
