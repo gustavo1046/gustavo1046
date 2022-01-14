@@ -2,7 +2,11 @@ Hi, my name is Gustavo Oliveira
 
 Actually studing tecnology of analysis and development systems (TADS)
 
-Studing Python and PHP
+- Now studing Python, PHP and Javascript
+- Need help in Vue.js
+- if you have questions, send it
+- he/his
+- hobbies: Music, music, music
 
 Forever Learning
 
