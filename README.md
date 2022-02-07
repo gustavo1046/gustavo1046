@@ -2,7 +2,7 @@ Hi, my name is Gustavo Oliveira, Welcome to my GitHub :)
 
 Actually studing tecnology of analysis and development systems (TADS)
 
-- Now studing Python, PHP and Javascript
+- Now studing Python, PHP and Java
 - Need help in Vue.js
 - if you have questions, send it
 - he/his
