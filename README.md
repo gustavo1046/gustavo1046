@@ -1,10 +1,8 @@
 Hi, my name is Gustavo Oliveira, Welcome to my GitHub :)
 
-Actually studing tecnology of analysis and development systems (TADS)
+Graduated in Analysis and Systems Developments 
 
-- Now studing Python, PHP and Java
 - if you have questions, send it
-- he/his
 - hobbies: Music, music, music
 
 Forever Learning
