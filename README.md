@@ -1,11 +1,8 @@
 Hi, my name is Gustavo Oliveira, Welcome to my GitHub :)
 
-Graduated in Analysis and Systems Developments 
-
-- if you have questions, send it
-- hobbies: Music, music, music
-
-Forever Learning
+- Graduated in Analysis and Systems Developments
+- Fullstack developer with 4+ experinece
+- Certificated in Postgress and MYSQL databases
 
 
 <!---
