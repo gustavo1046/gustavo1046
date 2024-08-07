@@ -1,7 +1,7 @@
 Hi, my name is Gustavo Oliveira, Welcome to my GitHub :)
 
 - Graduated in Analysis and Systems Developments
-- Fullstack developer with 4+ experinece
+- Fullstack developer with 4+ years experinece
 - Certificated in Postgress and MYSQL databases
 
 
